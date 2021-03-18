@@ -14,7 +14,7 @@ function App() {
         Hosted <a href="https://static-site.alst.superluminar.io">here</a>.
         </p>
         <p>
-          See <a href="https://superluminar.io/blog//2020/12/04/static-websites-with-aws-cdk">superluminar.io Blog</a> for further explanation.
+          See <a href="https://superluminar.io/2020/12/04/static-websites-with-aws-cdk/">superluminar.io Blog</a> for further explanation.
         </p>
       </header>
     </div>
